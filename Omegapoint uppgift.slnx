@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/BusinessLogicLayer/" />
+  <Folder Name="/DataAccessLayer/" />
+  <Project Path="Omegapoint uppgift/Omegapoint uppgift.csproj" />
+  <Project Path="OmegapointUI/omegapointui.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

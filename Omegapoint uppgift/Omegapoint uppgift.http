@@ -1,0 +1,6 @@
+@Omegapoint_uppgift_HostAddress = http://localhost:5258
+
+GET {{Omegapoint_uppgift_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
